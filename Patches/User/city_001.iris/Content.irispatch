@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes" ?>
+<Iris2 PresetVer="1" PluginVer="2020" PluginBuild="455" LastModified="1627902960">
+    <EffectCanopy Enabled="1" />
+    <Global Enabled="1">
+        <Param ElementID="Global Element" ParamID="Global_Gain" Value="0.85593879" />
+    </Global>
+    <IrisElement Enabled="1">
+        <Param ElementID="Iris Element" ParamID="Filter_Cutoff" Value="6840.09277344" />
+        <Param ElementID="Iris Element" ParamID="Filter_Enabled" Value="1" />
+        <Param ElementID="Iris Element" ParamID="Filter_Mode" Value="1" />
+        <Param ElementID="Iris Element" ParamID="Filter_Resonance" Value="0.53201908" />
+        <Param ElementID="Iris Element" ParamID="Master_Gain_Target2_Amount" Value="-0.50118726" />
+        <Param ElementID="Iris Element" ParamID="Pool 0 Balance" Value="12.00000000" />
+        <Param ElementID="Iris Element" ParamID="Pool 1 Balance" Value="7.44097137" />
+        <Param ElementID="Iris Element" ParamID="Pool 2 Balance" Value="-2.39951992" />
+        <Param ElementID="Iris Element" ParamID="Pool0_Playback_Mode" Value="2" />
+        <Param ElementID="Iris Element" ParamID="Pool0_Root_MIDI" Value="80.00000000" />
+        <Param ElementID="Iris Element" ParamID="Pool1_Playback_Mode" Value="2" />
+        <Param ElementID="Iris Element" ParamID="Pool1_Root_MIDI" Value="85.00000000" />
+        <Param ElementID="Iris Element" ParamID="Pool2_Playback_Mode" Value="2" />
+        <Param ElementID="Iris Element" ParamID="Pool2_Root_MIDI" Value="49.00000000" />
+        <ExtraBytes ElementID="Iris Element" Data="3s8N0OQHAADHAQAAAQAAADMAAABJUklTTElCUkFSWVNhbXBsZXMvQWJzdHJhY3QvRHJvbmVzL0RlZXAgRHJvbmUgNC53YXYBAOqnAAAAAAAAAQAAAAUAAAAAAAAAAAAAAAAAAACAiNVAAAAAAAAAAAAAAABAEzqrQAAAAAAgCvZAAAAAQBM6q0AAAAAAIAr2QAAAAACAiNVAAAAAAAAAAAAAAAAAgIjVQAEAAAAAAAAAAAAAAAAAAAAAAAAAC1gMAAAAAAAoAAAASVJJU0xJQlJBUllTYW1wbGVzL0Fic3RyYWN0L0ZYL0ZYIDAzLndhdgEA6qcAAAAAAAABAAAABQAAAAAAAAAAAAAAbu6sQNhjmEAAAAAAAAAAAKOwAWKkDoZAhqbE4giMEUGjsAFipA6GQIamxOIIjBFBbu6sQNhjmEAAAAAAAAAAAG7urEDYY5hAAQAAAAAAAAAAAAAAAAAAAAAAAABfJhAAAAAAACsAAABJUklTTElCUkFSWVNhbXBsZXMvT2JqZWN0cy9Cb3R0bGVzL0Zpenoud2F2AQDqpwAAAAAAAAEAAAAFAAAAAAAAAAAAAAAAAAAgvZNzQAAAAAAAAAAAAAAAAAAAAAAAAAAAeGMMQQAAAAAAAAAAAAAAAHhjDEEAAAAgvZNzQAAAAAAAAAAAAAAAIL2Tc0ABAAAAAAAAAAAAAAAAAAAAAAAAAG+MAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgAAAEFuYWxvZy9TaW5lcy53YXZldGFibGUWAAAAQW5hbG9nL1NpbmVzLndhdmV0YWJsZRYAAABBbmFsb2cvU2luZXMud2F2ZXRhYmxlFgAAAEFuYWxvZy9TaW5lcy53YXZldGFibGUWAAAAQW5hbG9nL1NpbmVzLndhdmV0YWJsZQUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwUAAABNYWNybwEBCAAAAGNpdHlfMDAxBAAAAFVzZXIA7f6t3gQAAABFTlY0BgAAAE91dHB1dAYAAABNYXN0ZXIEAAAAR2FpbgIAAAC+uq3e" />
+    </IrisElement>
+    <MaximizerElement Enabled="1" />
+    <PreviewElement Enabled="1" />
+    <SpectrumMeterElement Enabled="1" />
+</Iris2>
